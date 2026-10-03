@@ -4,7 +4,7 @@ Economics @ Princeton '29. Public-equity research: earnings reactions, valuation
 
 ## Research
 
-### [Earnings reactions in payments stocks: an event study](https://github.com/yasinlatif22-cpu/price-risk-analyzer)
+### [Earnings reactions in payments stocks: an event study](https://github.com/yasinlatif22-cpu/payments-earnings-event-study)
 
 Python event study of 150 earnings releases across Visa, Mastercard, AXP, PYPL, FIS and GPN, using market-model abnormal returns. Hypotheses were written before testing.
 
@@ -14,7 +14,7 @@ Python event study of 150 earnings releases across Visa, Mastercard, AXP, PYPL, 
 - Both stocks' beta to the S&P 500 fell from roughly 1.1 to 1.3 in 2019-21 to about 0.25 in 2026. I have not tested why.
 - 36 p-values reported; the one below 0.05 has the wrong sign and is not treated as a finding.
 
-<img src="https://raw.githubusercontent.com/yasinlatif22-cpu/price-risk-analyzer/main/outputs/rolling_beta.png" width="600" alt="Rolling 126-day beta of Visa and Mastercard vs SPY, 2019-2026">
+<img src="https://raw.githubusercontent.com/yasinlatif22-cpu/payments-earnings-event-study/main/outputs/rolling_beta.png" width="600" alt="Rolling 126-day beta of Visa and Mastercard vs SPY, 2019-2026">
 
 ## Valuation models
 
