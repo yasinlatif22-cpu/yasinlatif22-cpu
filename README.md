@@ -18,8 +18,12 @@ Python event study of 150 earnings releases across Visa, Mastercard, AXP, PYPL, 
 
 ## Valuation models
 
-- **Seagate (STX) LBO:** modeled a normalized 8.5x entry multiple because the ~47x market multiple makes a buyout unfinanceable. Base case: 1.97x MOIC, 14.5% IRR over 5 years.
-- **Visa (V) DCF:** WACC of about 7.8%, implied share price of $327 vs. $369.61 market price.
+### [Visa (V) discounted cash flow](https://github.com/yasinlatif22-cpu/financial-models) (work in progress)
+
+- Base case implies $278 per share (3.0% perpetuity growth) to $343 (18x FY2030E EBITDA exit multiple) against a $360.66 market price on 10/2/2026. WACC of 8.94%.
+- Known issues and planned fixes (sourcing, exit multiple, reverse DCF, scenarios) are listed in the repo.
+
+**Currently working on:** an LBO model of Bath & Body Works (BBWI).
 
 Python · Excel · Bloomberg · Capital IQ · Preqin
 
