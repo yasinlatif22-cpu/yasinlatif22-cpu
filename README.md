@@ -7,9 +7,9 @@ Economics student at **Princeton University** (Class of 2029) with minors in Cog
 - **SL5D Trading**: Intern, equity markets (swing, day, and position trading) | May 2026 – Jul 2026
 
 ## Projects
-- **[Picks & Shovels](link)**: Research publication on AI infrastructure stocks
-- **[Scout](link)**: Startup sourcing application
-- **[Equity Research Platform](link)**: Buy-side research and swing-trading web platform *(add once live)*
+- **[Picks & Shovels](link)**: Research publication on AI infrastructure stocks (in progress)
+- **[Scout](link)**: Startup sourcing application (in progress)
+- **[Equity Research Platform](link)**: Buy-side research and swing-trading web platform (in progress)
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/yasinlatif) · [Email](mailto:yasinlatif22@gmail.com) · [Resume](link)
