@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Yasin Latif</h1>
-<h3 align="center">Princeton '29 | Economics | Fundamental equity research and valuation</h3>
+# Yasin Latif
 
-- 🔭 I’m currently working on [Price Risk Analyzer (V vs MA risk and earnings reactions)](https://github.com/yasinlatif22-cpu/price-risk-analyzer)
+Economics @ Princeton '29. Fundamental equity research and valuation.
 
-- 🌱 I’m currently learning **Python for financial data analysis, equity valuation, and market research**
+## Research
 
-- 👨‍💻 All of my projects are available at [https://github.com/yasinlatif22-cpu](https://github.com/yasinlatif22-cpu)
+**[V vs MA: risk profile and earnings reactions](https://github.com/yasinlatif22-cpu/price-risk-analyzer)**
+Python event study of 150 earnings releases across Visa, Mastercard, AXP, PYPL, FIS and GPN, with hypotheses fixed before testing.
+- Earnings days move these stocks roughly 2 to 6 times more than normal days (p ≤ 0.002 in all six).
+- Neither EPS surprise nor the prior 60-day run-up predicted the direction of the reaction.
+- 36 p-values reported; the one below 0.05 has the wrong sign and is not treated as a finding.
 
-- 💬 Ask me about **DCF and LBO modeling, equity research, multifamily real estate**
+## Valuation models
 
-- 📫 How to reach me **yasinlatif22@gmail.com**
+[Link to financial-models repo once it exists]
+- **Seagate (STX) LBO:** modeled a normalized 8.5x entry multiple because the ~47x market multiple makes a buyout unfinanceable. Base case: 1.97x MOIC, 14.5% IRR over 5 years.
+- **Visa (V) DCF:** WACC of about 7.8%, implied share price of $327 vs. $369.61 market price.
 
-- ⚡ Fun fact **I have 2,503 wins in Anagrams on GamePigeon**
+## Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasinlatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinlatif" height="30" width="40" /></a>
-</p>
+Real Estate Investment Intern, Veloce Capital (multifamily). Trading Analyst Intern, SL5D Trading.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tools
+
+Python, Excel, Bloomberg, Capital IQ, Preqin
+
+[LinkedIn](https://linkedin.com/in/yasinlatif) · yasinlatif22@gmail.com
