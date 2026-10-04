@@ -32,4 +32,4 @@ I try to keep the research process simple and falsifiable:
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/yasinlatif](https://www.linkedin.com/in/yasinlatif/)
+[LinkedIn](https://www.linkedin.com/in/yasinlatif/)
