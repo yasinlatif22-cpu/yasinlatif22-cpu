@@ -11,6 +11,7 @@ I build financial models and data-driven research projects to test investment hy
 | **[Financial Models](https://github.com/yasinlatif22-cpu/financial-models)** | Excel-based valuation work, including a Visa (V) DCF and a leveraged buyout analysis of Bath & Body Works (BBWI). |
 | **[Payments Earnings Event Study](https://github.com/yasinlatif22-cpu/payments-earnings-event-study)** | Python-based event study examining earnings reactions across major payments companies, alongside comparative risk analysis. |
 | **[NBA Forecasting](https://github.com/yasinlatif22-cpu/nba-forecasting)** | Longitudinal forecasting project testing whether preseason information can predict future team performance using walk-forward validation and frozen out-of-sample forecasts. |
+| **[Mirsad](https://github.com/yasinlatif22-cpu/halal-heatmap)** | **Work in progress, not finished.** Automated AAOIFI-based Shariah screen of the S&P 500, with a heatmap ([live](https://yasinlatif22-cpu.github.io/halal-heatmap/)). The thresholds are my own reading of the standard and have not been checked against the AAOIFI text or reviewed by a Shariah scholar. Some large stocks still show as insufficient data and I have not yet found out why. Not a fatwa, not investment advice. |
 
 ## Research Approach
 
