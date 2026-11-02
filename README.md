@@ -1,4 +1,4 @@
-![Yasin Latif. Equity Research, Valuation, Strategy Research](assets/banner.png)
+![Yasin Latif, equity research and valuation](fastfetch.svg)
 
 I'm an economics student at Princeton focused on equity research and valuation. I use financial modeling and Python to study businesses and test investment hypotheses.
 
