@@ -30,7 +30,3 @@
 <td><a href="https://github.com/yasinlatif22-cpu/nba-forecasting"><b>NBA Forecasting</b></a><br>Preseason win forecasts scored out of sample, to test whether a model can beat a simple last-season baseline.</td>
 </tr>
 </table>
-
-## GitHub activity
-
-![GitHub contribution calendar for the last 12 months, drawn square by square](assets/contrib-grid.svg)
