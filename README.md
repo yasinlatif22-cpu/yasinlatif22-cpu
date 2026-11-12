@@ -27,6 +27,6 @@
 </tr>
 <tr>
 <td width="80" align="center"><img src="assets/icons/financial-models.svg" width="56" alt=""></td>
-<td><a href="https://github.com/yasinlatif22-cpu/financial-models"><b>Financial Models</b></a><br>An Excel DCF of Visa with live sensitivity tables, to build valuation skills from the ground up.</td>
+<td><a href="https://github.com/yasinlatif22-cpu/financial-models"><b>Financial Models</b></a><br>An Excel DCF of Visa that leads with a reverse DCF of the market price. The base case puts fair value at $319 against $359, but a 2-year beta of 0.42 instead of 0.80 reverses that.</td>
 </tr>
 </table>
